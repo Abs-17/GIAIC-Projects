@@ -1,0 +1,4 @@
+pandas
+xlsxwriter
+fpdf2
+matplotlib
