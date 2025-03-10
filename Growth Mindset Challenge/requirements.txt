@@ -1,8 +1,0 @@
-Here`s the list of Libraries I`ve used while making this project:
-Streamlit
-Pandas
-xlsxwriter
-os
-IO 
-fpdf 
-matplotlib
