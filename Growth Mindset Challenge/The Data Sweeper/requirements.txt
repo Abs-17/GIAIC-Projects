@@ -1,7 +1,5 @@
-Streamlit
-Pandas
+streamlit
+pandas
 xlsxwriter
-os
-IO 
-fpdf 
+fpdf2
 matplotlib
